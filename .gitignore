@@ -36,3 +36,7 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/data/~$URAV_BAL_out.xlsx
+/data/URAV_BAL_out.xlsx
+/data/KPR.xlsx
+/data/~$KPR.xlsx
